@@ -163,8 +163,3 @@
     </script>
 </body>
 </html>
-index.php
-
-Displaying index.php.
-clock.php
-Displaying clock.php.
