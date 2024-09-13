@@ -1,8 +1,7 @@
+
  <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- Designed by Dr. Ripal Ranpara for student Activity Project Assignment-->
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Professional Dashboard</title>
@@ -145,10 +144,10 @@
                 </ul>
                 <h2>My Social Profiles</h2>
                 <ul class="list-group">
-                    <li class="list-group-item"><a href="https://www.googlesite.com" target="_blank">Google Site</a></li>
-                    <li class="list-group-item"><a href="https://www.linkedin.com" target="_blank">LinkedIn</a></li>
+                    <li class="list-group-item"><a href="https://sites.google.com/view/sanjanahariyani" target="_blank">Google Site</a></li>
+                    <li class="list-group-item"><a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a></li>
                     <li class="list-group-item"><a href="https://www.blog.com" target="_blank">Blog</a></li>
-                    <li class="list-group-item"><a href="https://www.github.com" target="_blank">GitHub</a></li>
+                    <li class="list-group-item"><a href="https://github.com/sanjanahariyani/web_programming_php" target="_blank">GitHub</a></li>
                 </ul>
             </nav>
             <!-- Main content -->
@@ -171,8 +170,8 @@
                             <h2>About Me</h2>
                         </div>
                         <p><?php $aboutme=$_POST["aboutme"];
-						echo $aboutme;
-						?>
+				echo $aboutme;
+				?>
 						</p>
                     </div>
                     <div class="dashboard-item">
@@ -180,15 +179,15 @@
                             <h2>My Skillset</h2>
                         </div>
                         <p><?php $sk=$_POST["sk"];
-						echo $sk;
-						?></p>
+				echo $sk;
+				?></p>
                     </div>
                     <div class="dashboard-item">
                         <div id="assignments" class="section-title">
                             <h2>Assignments</h2>
                         </div>
                         <div class="btn-group">
-						<a href="https://github.com/sanjanahariyani/web_programming_php/tree/main/TASK-1">
+		<a href="https://github.com/sanjanahariyani/web_programming_php/tree/main/TASK-1">
                             <button class="ocean-blue-button gradient-button">Task 1</button></a>
 <button class="sunset-orange-button gradient-button">Task 2</button>
 <button class="spring-green-button gradient-button">Task 3</button>
@@ -204,8 +203,8 @@
                             <h2>My Project Details</h2>
                         </div>
                         <p><?php $pd=$_POST["pd"];
-						echo $pd;
-						?></p>
+				echo $pd;
+				?></p>
                     </div>
                 </div>
             </main>
