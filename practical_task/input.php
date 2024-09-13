@@ -151,10 +151,5 @@ body {
     </div>
    
 </form>
- <a link="https://sites.google.com/view/sanjanahariyani/home"></a><br><br>
-   <a href="https://www.linkedin.com/feed/"></a><br><br>
-	<a link="https://github.com/sanjanahariyani/"></a><br><br>
-	<a href="https://github.com/sanjanahariyani/web_programming_php/tree/main/TASK-1"></a><br><br>
-   
 </body>
 </html>
