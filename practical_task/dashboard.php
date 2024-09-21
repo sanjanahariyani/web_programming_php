@@ -171,8 +171,7 @@
                         </div>
                         <p><?php $aboutme=$_POST["aboutme"];
 				echo $aboutme;
-				?>
-						</p>
+				?></p>
                     </div>
                     <div class="dashboard-item">
                         <div id="my-skillset" class="section-title">
@@ -188,14 +187,14 @@
                         </div>
                         <div class="btn-group">
 		<a href="https://github.com/sanjanahariyani/web_programming_php/tree/main/TASK-1">
-                            <button class="ocean-blue-button gradient-button">Task 1</button></a>
-<button class="sunset-orange-button gradient-button">Task 2</button>
-<button class="spring-green-button gradient-button">Task 3</button>
-<button class="royal-purple-button gradient-button">Task 4</button>
-<button class="ruby-red-button gradient-button">Task 5</button>
-<button class="goldenrod-yellow-button gradient-button">Minor Project Module</button><br>
-
-<button class="spring-green-button gradient-button">Database  Module</button>
+              <button class="ocean-blue-button gradient-button">Task 1</button></a>
+		<a href="https://github.com/sanjanahariyani/web_programming_php/tree/main/TASK-2">
+			<button class="sunset-orange-button gradient-button">Task 2</button></a>
+			<button class="spring-green-button gradient-button">Task 3</button>
+			<button class="royal-purple-button gradient-button">Task 4</button>
+			<button class="ruby-red-button gradient-button">Task 5</button>
+			<button class="goldenrod-yellow-button gradient-button">Minor Project Module</button><br>
+			<button class="spring-green-button gradient-button">Database  Module</button>
                         </div>
                     </div>
                     <div class="dashboard-item">
