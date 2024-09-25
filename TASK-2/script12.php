@@ -1,6 +1,6 @@
 <?php
-$name="vidhi";
-$name1="sanju";
+$name="sanju";
+$name1="deep";
 
 echo"concatenate strings:".$name.$name1;
 ?>
